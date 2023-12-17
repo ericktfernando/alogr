@@ -1,1 +1,1 @@
-Fixed dataloader CPU bottleneck for small batch sizes (#7659)
+Add model.eval() in TensorBoad graph visualization to avoid BN stats changes (#8629)
