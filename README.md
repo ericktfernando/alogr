@@ -1,1 +1,1 @@
-Docs partial mdformat improvements (#7378)
+Add Weights & Biases Docs integrations page (#7199)
